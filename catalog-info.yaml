@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: TestDev13
+  annotations:
+    github.com/project-slug: Priyatamvemulapalli/Jiratesting
+    jira/project-key: TESTDEV
+    
+    
+spec:
+  type: other
+  lifecycle: unknown
+  owner: users
+  
